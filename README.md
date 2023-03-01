@@ -19,6 +19,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBorodkinaViktoriya=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BorodkinaViktoriya/BorodkinaViktoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
