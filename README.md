@@ -7,7 +7,6 @@
 ## Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ViktoriiaBor)
-[![email](https://img.shields.io/badge/-email-ffffff?style=for-the-badge&logo=email&logoColor=27A0D9)](<a href="mailto:Motiviruisya@yandex.ru"></a>)
 
 <h3>Мой стэк</h3>
 <p>
