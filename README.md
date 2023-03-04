@@ -9,7 +9,7 @@
 * Telegram: [@ViktoriiaBor](https://t.me/ViktoriiaBor)
 * Mail: Motiviruisya@yandex.ru
 
-<h3>Мой стэк</h3>
+## Мой стэк
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
