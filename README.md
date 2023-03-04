@@ -6,7 +6,7 @@
 
 ## Мои контакты:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ViktoriiaBor)
+[![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ViktoriiaBor)
 
 <h3>Мой стэк</h3>
 <p>
