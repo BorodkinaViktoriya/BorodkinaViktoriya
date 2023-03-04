@@ -6,8 +6,8 @@
 
 ## Мои контакты:
 
-Telegram: [@ViktoriiaBor](https://t.me/ViktoriiaBor)
-Mail: Motiviruisya@yandex.ru
+*Telegram: [@ViktoriiaBor](https://t.me/ViktoriiaBor)
+*Mail: Motiviruisya@yandex.ru
 
 <h3>Мой стэк</h3>
 <p>
